@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import { Fragment } from "react";
 import { Route, Routes } from "react-router-dom";
 import Footer from "./components/elements/Footer";
 import Header from "./components/elements/Header";

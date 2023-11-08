@@ -1,0 +1,11 @@
+{
+  "recordError": "El teu document no s'ha pogut verificar",
+  "error-description": "No hi ha prova de l'existència d'aquest document. És possible que hagi estat modificat inintencionadament.",
+  "sources": "Possibles causes:",
+  "first-source": "- L'emissor ha proporcionat una versió alterada del document.",
+  "second-source": "- El document ha estat alterat per un tercer durant la transmissió.",
+  "third-source": "- El document ha estat alterat inintencionadament.",
+  "fourth-source": "- L'emissor ha proporcionat una prova fraudulenta.",
+  "fifth-source": "- El teu document encara està pendent de ser transaccionat en el protocol blockchain per l'emissor.",
+  "try-again": "Si us plau intenta carregar el teu document de nou passats uns minuts."
+}

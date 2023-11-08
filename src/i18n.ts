@@ -12,9 +12,9 @@ i18n
   .use(initReactI18next)
   .init({
     debug: true,
-    supportedLngs: ["en", "es"],
-    lng: language ? language : "en",
-    fallbackLng: "en",
+    supportedLngs: ["en", "es", "ca"],
+    lng: language ? language : "ca",
+    fallbackLng: "ca",
     nonExplicitSupportedLngs: true,
     backend: {
       allowMultiLoading: false,

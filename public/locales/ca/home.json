@@ -1,0 +1,16 @@
+{
+  "title": "Verifica l'autenticitat d'un document",
+  "subtitle": "Comprova irrefutablement en blockchain si un document ha estat manipulat.",
+  "feature-one": "Obtingues un informe amb els detalls de l'evidència.",
+  "feature-two": "Verifica de manera independent els teus documents en blockchain.",
+  "feature-three": "Completament transparent i opensource.",
+  "test-section": "Com funciona el procés de verificació?",
+  "valid-test": "Exemple de certificat vàlid",
+  "tampered-test": "Exemple de certificat manipulat",
+  "test-one-title": "Prova-ho amb documents de mostra",
+  "test-one-text": "Descarrega els documents de mostra per a veure com funciona.",
+  "test-two-title": "Verifica els documents",
+  "test-two-text": "Arrossega els arxius o fes clic en l'eina per a obrir el teu navegador d'arxius.",
+  "test-three-title": "Comprova els resultats",
+  "test-three-text": "Comprova si la certificació és vàlida i obtingues un informe amb l'evidència."
+}

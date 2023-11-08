@@ -1,0 +1,12 @@
+{
+  "drag&drop": "Arrossega i deixa anar",
+  "or": "o",
+  "select": "Selecciona fitxer",
+  "verify-another": "Verificar un altre document",
+  "file-types": "Accepta jpg, png, pdf y json",
+  "file-not-accepted": "Aquest document no és vàlid. Si us plau torna a intentar-ho amb una altra mena d'arxiu.",
+  "decrypt-modal-title": "Oh! Sembla que aquest arxiu està encriptat",
+  "decrypt-modal-body": "Si us plau, introdueix la contrasenya per a desencriptar el document i poder validar-lo. Si tanques el modal el procés de validació es veurà interromput.",
+  "password": "Contrasenya",
+  "ui-password-error": "Aquesta contrasenya sembla no ser vàlida"
+}

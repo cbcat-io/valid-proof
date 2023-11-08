@@ -5,7 +5,7 @@ import "primereact/resources/themes/saga-blue/theme.css";
 import { useState } from "react";
 import { Nav, Navbar, NavDropdown } from "react-bootstrap";
 import i18n from "../../i18n";
-import logo from "../../images/validProof_logo.jpg";
+import logo from "../../images/LogoCBCat-Cambra.png";
 import "../../styles.css";
 
 type ILanguage = {
@@ -15,6 +15,7 @@ type ILanguage = {
 
 const Header = () => {
   const languagesArray: ILanguage[] = [
+    { label: "Català", value: "ca" },
     { label: "English", value: "en" },
     { label: "Español", value: "es" },
   ];
@@ -53,6 +54,7 @@ const Header = () => {
           <Navbar.Brand href="#">
             <img alt="Card" src={logo} style={{ width: "140px" }} />
           </Navbar.Brand>
+          <h1 style={{marginRight: "75%", color: "#99ff00",}}>DACblock</h1>
           <Nav>
             <NavDropdown title={selectedLanguage.label} id="basic-nav-dropdown">
               {languagesArray.map((lang) => {

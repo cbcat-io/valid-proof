@@ -303,6 +303,7 @@ const Home = () => {
 
                   <p>{t("feature-two")}</p>
                 </li>
+                {/*
                 <li className=" mt-3">
                   <i
                     className="circle check-success pi pi-check px-1 py-1 click-icon icon-medium"
@@ -313,7 +314,7 @@ const Home = () => {
                   ></i>
 
                   <p>{t("feature-three")}</p>
-                </li>
+                </li>*/}
               </ul>
             </Col>
 
@@ -353,7 +354,7 @@ const Home = () => {
         </div>
         <div className="top-margin"></div>
         {!!session === false ? (
-          <div className="bg-light pt-3 pb-5 mt-3">
+          <div className="bg-white pt-3 pb-5 mt-3">
             <div className="container-md px-4 pt-10">
               <h2 className="mb-4 text-center pt-5">{t("test-section")}</h2>
               <Row className="pt-2">
