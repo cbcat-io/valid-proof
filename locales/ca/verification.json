@@ -1,0 +1,11 @@
+{
+  "wait": "Si us plau espera mentre es verifica el teu document",
+  "first-step": "Obtenint prova del segell",
+  "second-step": "Validant la veracitat del segell",
+  "third-step": "Buscant el segell a blockchain",
+  "first-step-helper": "Pas 1",
+  "second-step-helper": "Pas 2",
+  "third-step-helper": "Pas 3",
+  "file-step": "Descarregant document",
+  "file-step-helper": "Obtenint document a verificar"
+}
