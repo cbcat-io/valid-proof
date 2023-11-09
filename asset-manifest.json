@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "./static/css/main.ef734179.css",
-    "main.js": "./static/js/main.ad3d0620.js",
+    "main.css": "./static/css/main.4f5592b1.css",
+    "main.js": "./static/js/main.3fe11284.js",
     "static/js/404.28685daf.chunk.js": "./static/js/404.28685daf.chunk.js",
     "static/js/495.111978fc.chunk.js": "./static/js/495.111978fc.chunk.js",
     "static/js/787.da157686.chunk.js": "./static/js/787.da157686.chunk.js",
     "static/media/bloock_bridge_bg.wasm": "./static/media/bloock_bridge_bg.ab48d0a4764c007ff812.wasm",
     "static/media/primeicons.svg": "./static/media/primeicons.c6e2053303524e39530c.svg",
-    "static/media/LogoCBCat-Cambra.png": "./static/media/LogoCBCat-Cambra.096ef66e414163e32df9.png",
     "static/media/primeicons.eot": "./static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
     "static/media/primeicons.woff": "./static/media/primeicons.449aa8c65cdc5c2a8686.woff",
     "static/media/primeicons.ttf": "./static/media/primeicons.91bacab1f083f2795272.ttf",
@@ -15,13 +14,13 @@
     "static/media/verify_documents.jpg": "./static/media/verify_documents.bfd109a4f7aa26b535c8.jpg",
     "index.html": "./index.html",
     "static/media/getFetch.cjs": "./static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.ef734179.css.map": "./static/css/main.ef734179.css.map",
-    "main.ad3d0620.js.map": "./static/js/main.ad3d0620.js.map",
+    "main.4f5592b1.css.map": "./static/css/main.4f5592b1.css.map",
+    "main.3fe11284.js.map": "./static/js/main.3fe11284.js.map",
     "495.111978fc.chunk.js.map": "./static/js/495.111978fc.chunk.js.map",
     "787.da157686.chunk.js.map": "./static/js/787.da157686.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef734179.css",
-    "static/js/main.ad3d0620.js"
+    "static/css/main.4f5592b1.css",
+    "static/js/main.3fe11284.js"
   ]
 }
